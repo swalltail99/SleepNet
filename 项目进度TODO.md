@@ -12,7 +12,7 @@
 
 ### 数据集信息
 #### 数据集描述
-本次毕设预计使用的数据集为PhysioNet Challenge 2018和SleepNetEdx两个。
+本次毕设预计使用的数据集为PhysioNet Challenge 2018和SleepNetEdx两个。其中PhysioNet 2018数据集的采样为200Hz，SleepNetEdx为100Hz。
 
 #### 汇总
 |数据集名称|下载网址|描述|备注|
