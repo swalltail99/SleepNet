@@ -18,13 +18,11 @@
 ## 4. 预期实验算法安排（Methods & Experiment)
 ### 4.1 支持向量机(SVM)
 
-### 4.2 人工神经网络(ANN)
+### 4.2 卷积神经网络(CNN)
 
-### 4.3 卷积神经网络(CNN)
+### 4.3 循环神经网络（RNN）
 
-### 4.4 循环神经网络（RNN）
-
-### 4.5 睡眠评价(Sleep Scoring)——CNN与LSTM
+### 4.4 睡眠评价(Sleep Scoring)——CNN与LSTM
 
 
 
