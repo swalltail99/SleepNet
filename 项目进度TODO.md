@@ -50,11 +50,13 @@
 
 |项目名称|使用的数据集|阅读计划|
 |----|----|----|
-|EEG_classification(DeepSleepNet)|MASS,Sleep-EDF|2月10日|
-|CNN+LSTM| Sleep-EDFx， CCSHS||
-|MultitaskSleepNet|MASS,Sleep-EDF||
-|Physionet2018挑战|2018challenge挑战数据集||
-|SiameseNet|2018挑战赛数据集||
+|EEG_classification(DeepSleepNet)|MASS,Sleep-EDF|未完成|
+|CNN+LSTM| Sleep-EDFx， CCSHS|未完成|
+|MultitaskSleepNet|MASS,Sleep-EDF|未完成|
+|Physionet2018挑战|2018challenge挑战数据集|未完成|
+|SiameseNet|2018挑战赛数据集|未完成|
+
+
 
 
 
