@@ -46,7 +46,7 @@
 
 > The subjects had a variety of physiological signals recorded as they slept through the night including: electroencephalography (EEG), electrooculography (EOG), electromyography (EMG), electrocardiology (EKG), and oxygen saturation (SaO2). Excluding SaO2, all signals were sampled to 200 Hz and were measured in microvolts. For analytic convenience, SaO2 was resampled to 200 Hz, and is measured as a percentage.
 
-## 文献代码阅读List
+## 文献代码阅读 List
 
 |项目名称|使用的数据集|阅读计划|
 |----|----|----|
