@@ -56,6 +56,10 @@
 |Physionet2018挑战|2018challenge挑战数据集|未完成|
 |SiameseNet|2018挑战赛数据集|未完成|
 
+[ x ] DeepSleepNet: a Model for Automatic Sleep Stage Scoring based on Raw Single-Channel EEG.
+[ ] Automatic Sleep Stage Classification using Convolutional Neural Networks with Long Short-Term Memory.
+[ ] Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification.
+
 
 
 
