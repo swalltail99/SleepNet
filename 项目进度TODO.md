@@ -52,7 +52,7 @@
 |----|----|----|
 |EEG_classification(DeepSleepNet)|MASS,Sleep-EDF|未完成|
 |CNN+LSTM| Sleep-EDFx， CCSHS|未完成|
-|MultitaskSleepNet|MASS,Sleep-EDF|已完成|
+|MultitaskSleepNet|MASS,Sleep-EDF|已完成，2月20日|
 |Physionet2018挑战|2018challenge挑战数据集|未完成|
 |SiameseNet|2018挑战赛数据集|未完成|
 
