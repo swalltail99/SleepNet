@@ -48,7 +48,7 @@
 
 ## 文献代码阅读 List
 
-|项目名称|使用的数据集|阅读计划|
+|项目名称|使用的数据集|阅读&翻译计划|
 |----|----|----|
 |EEG_classification(DeepSleepNet)|MASS,Sleep-EDF|未完成|
 |CNN+LSTM| Sleep-EDFx， CCSHS|未完成|
